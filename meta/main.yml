@@ -1,0 +1,4 @@
+---
+dependencies:
+  - role:       'elasticsearch_repo'
+    when:       skipdeps is not defined
